@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cards{
+    display: flex;
+}
+
+.card img{
+    width: 800px;
+    height: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.card p{
+    margin-left: 20px;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.card h2{
+     margin-left: 20px;
+}
+
+.card1 img{
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.card1 p{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 800;
+}
+
+.card2 img{
+    width: 400px;
+    height: 300px;
+    margin-left: -400px;
+    margin-top: 400px;
+}
+
+.card2 p{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: -400px;
+}
+
+.card3 img{
+    width: 400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.card3 p{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 20px;
+}
+
+.card4 img{
+    width: 400px;
+    height: 300px;
+    margin-left: -400px;
+    margin-top: 400px;
+    border: 1px solid #000;
+}
+
+.card4 p{
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: -400px;
+}
